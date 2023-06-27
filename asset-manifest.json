@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Coffeeget/yonsai_team_A/static/css/main.73b57ef4.css",
+    "main.js": "/Coffeeget/yonsai_team_A/static/js/main.389302c0.js",
+    "static/js/787.38c19021.chunk.js": "/Coffeeget/yonsai_team_A/static/js/787.38c19021.chunk.js",
+    "static/media/splash.gif": "/Coffeeget/yonsai_team_A/static/media/splash.ee53e951c35c1c900a87.gif",
+    "static/media/or_bg.png": "/Coffeeget/yonsai_team_A/static/media/or_bg.0aaf1ee600054f8e41b8.png",
+    "static/media/or_btn1.png": "/Coffeeget/yonsai_team_A/static/media/or_btn1.098b3cb0138503969e36.png",
+    "static/media/or_btn2.png": "/Coffeeget/yonsai_team_A/static/media/or_btn2.c44475c86fca0bbf8d7b.png",
+    "index.html": "/Coffeeget/yonsai_team_A/index.html",
+    "main.73b57ef4.css.map": "/Coffeeget/yonsai_team_A/static/css/main.73b57ef4.css.map",
+    "main.389302c0.js.map": "/Coffeeget/yonsai_team_A/static/js/main.389302c0.js.map",
+    "787.38c19021.chunk.js.map": "/Coffeeget/yonsai_team_A/static/js/787.38c19021.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73b57ef4.css",
+    "static/js/main.389302c0.js"
+  ]
+}
